@@ -19,7 +19,7 @@ export default function Sidebar({ showAbout = true }: SidebarProps) {
         <section className="rounded border border-gray-200 bg-white p-4">
           <h2 className="mb-2 text-sm font-bold text-black">Sobre nós</h2>
           <p className="text-xs leading-relaxed text-gray-600">
-            O justtruefans traz histórias reais, looks de beleza, moda e
+            O contosdobrasil traz histórias reais, looks de beleza, moda e
             conteúdos de confiança que as meninas não param de compartilhar.
             Fique pelos glow-ups, looks e energia de pele real de que todo mundo
             está falando.

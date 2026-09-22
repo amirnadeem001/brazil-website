@@ -6,8 +6,8 @@ import {
 
 export const metadata: Metadata = {
   title: {
-    default: "justtruefans — Histórias Reais, Beleza e Moda",
-    template: "%s | justtruefans",
+    default: "contosdobrasil — Histórias Reais, Beleza e Moda",
+    template: "%s | contosdobrasil",
   },
   description:
     "Histórias reais, looks de beleza, moda e momentos de confiança que todo mundo está salvando agora.",

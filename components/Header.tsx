@@ -11,7 +11,7 @@ export default function Header() {
           href="/"
           className="text-2xl font-black tracking-tight text-black sm:text-[1.75rem]"
         >
-          justtrue<span className="text-orange-500">fans</span>
+          contosdo<span className="text-orange-500">brasil</span>
         </Link>
 
         <nav className="flex flex-wrap items-center justify-end gap-x-6 gap-y-2 text-sm font-medium text-gray-700">

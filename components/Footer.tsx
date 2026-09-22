@@ -21,12 +21,30 @@ export default function Footer() {
       <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 sm:grid-cols-2 lg:grid-cols-4">
         <div>
           <Link href="/" className="text-2xl font-black tracking-tight text-white">
-            justtrue<span className="text-orange-400">fans</span>
+            contosdo<span className="text-orange-400">brasil</span>
           </Link>
           <p className="mt-3 max-w-xs text-sm leading-relaxed text-neutral-300">
             Histórias reais, looks de beleza e momentos de confiança que todo
             mundo está salvando agora.
           </p>
+          <div className="mt-4 flex items-center gap-4">
+            <a
+              href="https://www.instagram.com/mabellred/reels/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm font-medium text-neutral-300 hover:text-orange-400"
+            >
+              Instagram
+            </a>
+            <a
+              href="https://www.youtube.com/@CaughtOnCamAI001"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm font-medium text-neutral-300 hover:text-orange-400"
+            >
+              YouTube
+            </a>
+          </div>
         </div>
 
         {FOOTER_COLS.map((col) => (
@@ -53,7 +71,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-6xl flex-col gap-2 px-4 py-5 text-center sm:flex-row sm:items-center sm:justify-between sm:text-left">
           <p className="text-xs text-neutral-400">
-            &copy; {new Date().getFullYear()} justtruefans. Todos os direitos
+            &copy; {new Date().getFullYear()} contosdobrasil. Todos os direitos
             reservados.
           </p>
           <p className="text-xs text-neutral-500">

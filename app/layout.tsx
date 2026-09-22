@@ -14,7 +14,7 @@ const libreBaskerville = Libre_Baskerville({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://justtruefans.netlify.app"),
+  metadataBase: new URL("https://contosdobrasil.netlify.app"),
 };
 
 export default function RootLayout({
